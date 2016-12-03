@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DesignPattern</string>
+    <array name="tabLayoutTitle">
+        <item>Animation</item>
+        <item>Recoder</item>
+        <item>Bluetooth</item>
+        <item>ClipBoard</item>
+        <item>Font</item>
+        <item>Genus</item>
+        <item>Imageeffe</item>
+        <item>web view</item>
+    </array>
+</resources>
